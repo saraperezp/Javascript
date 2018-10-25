@@ -1,0 +1,11 @@
+var nombre = 'Sara';
+var apellido = 'Pérez';
+var nombre_completo = nombre+' '+ apellido;
+console.log('El nombre completo es:',nombre_completo);
+console.log('el nombre es:', nombre);
+console.log('el apellido es:',apellido);
+var num = 28;
+console.log('mi edad es',num,'años');
+console.log(num*3);
+var mis_numeros_hex = [1,2,3,4,5,6,7,8,9,'a','b','c','d','e','f'];
+console.log (mis_numeros_hex);
