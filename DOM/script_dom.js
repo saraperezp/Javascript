@@ -6,7 +6,6 @@ cambiarBoton.onclick = function () {
     let elParr = document.getElementById('parrafo');
     elParr.innerHTML = "JAJAJA!";
     elParr.style.color = 'blue';
-    background="yellow";
-
+    //background="yellow";
 
 }

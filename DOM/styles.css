@@ -21,8 +21,8 @@ button{
     border-radius: 15px;
     height: 35px;
 }
-button:hover{
-    background: gold;
+
+background: gold;
     color: black;
     font-style: initial;
     border-radius: 15px;}

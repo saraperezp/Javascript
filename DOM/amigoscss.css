@@ -1,0 +1,45 @@
+h1{font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;
+text-align: center;}
+
+
+body{
+    font-size: 15px;
+    list-style: none;    
+}
+
+ul > li {
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px,5px,5px,5px;
+    margin: 10px;
+    
+}
+
+ul > li > p {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px, 20px, 20px,20px;
+}
+
+ul> li> img {
+    width: 80px;
+    border-bottom: 
+}
+.borra{
+    background-color: red;
+    color: beige;
+    width: 75px;
+    border-radius: 22px;
+    border: white solid;
+
+}
+
+.saluda{
+    background-color: mediumseagreen;
+    color: azure;
+    width: 75px;
+    border-radius: 22px;
+    border: white solid;
+
+}
