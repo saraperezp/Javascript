@@ -36,5 +36,6 @@ function saludaAmigos(classbtn, attriname) {
     }
 }
 
+
 saludaAmigos('saluda', 'data-value');
 
